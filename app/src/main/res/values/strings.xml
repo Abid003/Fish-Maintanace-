@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">FishMaintanance</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="fish_name">
+
+        <item>Gold fish</item>
+        <item>Angelfish</item>
+        <item>Shark</item>
+        <item> Zebra Danios</item>
+        <item>Guppies</item>
+        <item>Betta Fish</item>
+        <item>Molly Fish</item>
+        <item>Oranda goldfish</item>
+        <item>Neon Tetras Fish</item>
+        <item>Sucker fish</item>
+        <item>Tiger barb</item>
+
+    </string-array>
+
+    <string-array name="fish_Description">
+
+        <item>Feed 2–3 times daily. It is important to avoid overfeeding goldfish. They can consume in under two minutes or only feed as much as the size of the goldfish’s eye.
+        \n\nFor goldfish pH is not critical, but ideally should be between 7.0 and 8.4. Rapid changes in temperature or water chemistry can be harmful, if not fatal to goldfish.
+        </item>
+        <item>Most aquarists agree that feeding your angelfish an amount of food they can eat in 30 seconds is the gold standard. If your angelfish still appear to be hungry after this, you may add 20–30 seconds of feeding time, but you should never let them eat for minutes on end.\n\n For Angelfish water pH should be between 6.8 and 7.8 </item>
+        <item>For Shark things to remember when feeding your freshwater shark: Feed small amounts two to three times daily, no more than your fish will eat in 1–2 minutes.\n\n For best results, pH should be between 6.8 and 8.0,</item>
+        <item> Zebra Danios ale and retail fish outlet based at the Eastern end of Shoreham Harbour (next to Hove Lagoon). We are proud to sup</item>
+        <item>Guppies ale and retail fish outlet based at the Eastern end of Shoreham Harbour (next to Hove Lagoon). We are proud to sup</item>
+        <item>Betta Fish ale and retail fish outlet based at the Eastern end of Shoreham Harbour (next to Hove Lagoon). We are proud to sup</item>
+        <item>Molly Fish ale and retail fish outlet based at the Eastern end of Shoreham Harbour (next to Hove Lagoon). We are proud to sup</item>
+        <item>Oranda  ale and retail fish outlet based at the Eastern end of Shoreham Harbour (next to Hove Lagoon). We are proud to sup</item>
+        <item>Neon Tetras Fish ale and retail fish outlet based at the Eastern end of Shoreham Harbour (next to Hove Lagoon). We are proud to sup</item>
+        <item>Sucker fish  ale and retail fish outlet based at the Eastern end of Shoreham Harbour (next to Hove Lagoon). We are proud to sup</item>
+        <item>Tiger barb  ale and retail fish outlet based at the Eastern end of Shoreham Harbour (next to Hove Lagoon). We are proud to sup</item>
+
+    </string-array>
+
+</resources>

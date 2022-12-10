@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.PHFragment">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="10dp">
+
+
+
+
+        <TextView
+            android:id="@+id/PHHeadingTextView"
+            android:textSize="30dp"
+            android:layout_width="match_parent"
+            android:textAlignment="center"
+            android:layout_margin="10dp"
+            android:layout_height="wrap_content"
+            android:text="Water Condition"
+            android:textColor="@color/purple_700"
+            tools:layout_editor_absoluteX="120dp"
+            tools:layout_editor_absoluteY="149dp"
+            android:gravity="center_horizontal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24dp"
+            android:text="water PH: "
+            android:textColor="@color/purple_700"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/phTextviwId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/purple_700"
+            android:textSize="20dp"
+            android:text="Null"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            android:textSize="24dp"
+            android:text="Condition: "
+            android:textColor="@color/purple_700"
+            />
+        <TextView
+            android:id="@+id/conditionTextvieId"
+            android:layout_width="wrap_content"
+            android:textColor="@color/purple_700"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Null"
+            />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            android:text="Recommendation: "
+            android:textColor="@color/purple_700"/>
+        <TextView
+            android:id="@+id/recommedationTextviewId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Null"
+            android:textColor="@color/purple_700"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="Note: "
+            android:textColor="@color/purple_700"
+            android:textSize="24dp"
+            android:layout_marginTop="10dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/purple_700"
+            android:textSize="20dp"
+            android:text="Idle PH value for fishes is in between 7 to 9. "/>
+    </LinearLayout>
+</LinearLayout>
